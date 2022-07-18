@@ -1,5 +1,7 @@
 # Center for Advanced Innovation in Agriculture (CAIA) Workshop 2022 - Virginia Tech
 
+**Note:** This work is owned by Minh Nguyen and the A3 Lab members for educational purpose only. Please don't make it public. All rights reserved.
+
 ![alt-text](https://github.com/mnguyen0226/caia_workshop_2022/blob/main/imgs/cbs.png)
 
 ### Water Distribution Systems Attacks Detections with Machine Learning
