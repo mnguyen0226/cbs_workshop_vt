@@ -2,7 +2,7 @@
 
 **Note:** This work is owned by Minh Nguyen and the A3 Lab members for educational purpose only. Please don't make it public. All rights reserved.
 
-![alt-text](https://github.com/mnguyen0226/caia_workshop_2022/blob/main/imgs/cbs.png)
+![](https://github.com/mnguyen0226/ml_workshop_vt/blob/main/imgs/cbs.png)
 
 ### Water Distribution Systems Attacks Detections with Machine Learning
 - [Link to Notebook](https://colab.research.google.com/drive/1HlQenlXQ6fsiOUBaa-el3eVlr7GNPH4f?usp=sharing)
